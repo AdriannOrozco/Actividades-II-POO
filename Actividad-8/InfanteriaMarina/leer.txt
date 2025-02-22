@@ -1,0 +1,4 @@
+Este es el desarrollo del ejercicio:
+
+2. Intenta acceder a atributos privados de una clase base desde una clase derivada y explica por qué ocurre el error.
+Del ejercicio 4!

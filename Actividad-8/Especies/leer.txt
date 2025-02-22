@@ -1,0 +1,4 @@
+Este es el desarrollo del ejercicio:
+
+1.Intenta crear una clase que herede de múltiples clases e identifica el error de compilación.
+Del ejercicio 4!
