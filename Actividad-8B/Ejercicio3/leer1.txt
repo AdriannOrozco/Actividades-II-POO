@@ -1,0 +1,4 @@
+Este es el desarrollo del ejercicio 3:
+
+1. Intenta utilizar super en un contexto que no sea una clase derivada y observa los errores de compilación.
+(Es mostrado en el archivo "Frutas.java" y "TestFrutas.java")

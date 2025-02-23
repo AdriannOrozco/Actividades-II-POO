@@ -1,0 +1,4 @@
+Este es el desarrollo del ejercicio 3:
+
+2. Intenta invocar un atributo privado de la clase base utilizando super y discute por qué ocurre un error.
+(Probado en los archivos "Moto.java" y "Vehiculo.java")
