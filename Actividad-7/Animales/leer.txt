@@ -1,0 +1,2 @@
+Desarrollo del ejercicio 3:
+2. Intenta definir un método concreto en una clase abstracta que sea necesario sobrescribir en las clases derivadas.
