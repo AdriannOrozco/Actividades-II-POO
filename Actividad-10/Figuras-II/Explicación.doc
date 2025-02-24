@@ -1,0 +1,9 @@
+Un método abstracto, por su naturaleza, está incompleto. 
+Esto significa que la clase base no define cómo debería comportarse ese método, 
+sino que deja esa responsabilidad a las subclases. Si Java permitiera agregar una implementación
+a un método abstracto, entonces dejaría de ser abstracto, lo que iría en contra
+ de su propósito. 
+
+Si lo que necesito es definir una implementación que las subclases puedan heredar o modificar, puedo usar métodos 
+concretos dentro de clases abstractas o aprovechar los métodos predeterminados 
+de las interfaces (default methods).
