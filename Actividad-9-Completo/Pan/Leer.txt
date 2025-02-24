@@ -1,0 +1,3 @@
+Ejercicio 3:
+
+1. Intenta crear una clase que implemente una interfaz sin proporcionar las implementaciones de sus métodos y observa los errores de compilación.
