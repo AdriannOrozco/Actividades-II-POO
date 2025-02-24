@@ -1,0 +1,3 @@
+Ejercicio 3
+
+2. Intenta implementar interfaces en clases que no tienen lógica relevante para esas interfaces y discute por qué es una mala práctica.
